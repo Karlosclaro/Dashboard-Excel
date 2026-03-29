@@ -1,10 +1,3 @@
-Perfeito ✅  
-Abaixo está o **README adaptado para padrão GitHub**, usando Markdown, linguagem clara e estrutura comum em repositórios de dados/analytics.
-
-Você pode copiar **diretamente** para um arquivo `README.md`.
-
-***
-
 # 📊 Vendas Mensais por Produto – Base de Dados
 
 Este repositório contém a **base de dados de vendas mensais por produto**, utilizada como **fonte principal de um Dashboard dinâmico** desenvolvido em planilha (Excel / Google Sheets).
